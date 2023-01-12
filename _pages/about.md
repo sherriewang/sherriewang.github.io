@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 **Starting Spring 2023, I will be an Assistant Professor at MIT in the [Department of Mechanical Engineering](https://meche.mit.edu) and [IDSS](https://idss.mit.edu). I am accepting new PhD students and postdocs for Fall 2023. If you're interested, please email me at sherwang \[at\] mit \[dot\] edu with your interests and CV!**
 
 My research uses novel data and computational algorithms to monitor our planet and enable sustainable development. 
-My focus is on improving agricultural management and reducing greenhouse gas emissions, especially in low- or middle-income regions of the world. 
+My focus is on improving agricultural management and mitigating climate change, especially in low- or middle-income regions of the world. 
 To this end, I frequently use satellite imagery, crowdsourced data, LiDAR, and other spatial data. 
 Due to the scarcity of ground truth data in these regions and the noisiness of real-world data in general, my methodological work is geared toward developing machine learning methods that work well with these constraints.
 
