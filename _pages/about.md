@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**Starting Spring 2023, I will be an Assistant Professor at MIT in the [Department of Mechanical Engineering](https://meche.mit.edu) and [IDSS](https://idss.mit.edu). I am accepting new PhD students and postdocs for Fall 2023. If you're interested, please email me at sherwang \[at\] mit \[dot\] edu with your interests and CV!**
+**I'm an Assistant Professor at MIT in the [Department of Mechanical Engineering](https://meche.mit.edu) and [IDSS](https://idss.mit.edu). If you are a PhD student or postdoc interested in joining our growing research group, please email me at sherwang \[at\] mit \[dot\] edu with your interests and CV!**
 
 My research uses novel data and computational algorithms to monitor our planet and enable sustainable development. 
 My focus is on improving agricultural management and mitigating climate change, especially in low- or middle-income regions of the world. 
