@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-12-19 16:11:00-0400
+date: 2024-02-15 07:59:00-0400
 inline: true
 ---
 
-A preprint of our paper using GEDI to map tall and short crops on a global scale over 2019-2021 is now [on arXiv](https://arxiv.org/abs/2212.09681).
+Our lab's work mapping crops in Thailand, led by PhD student Jordi Laguarta, was [featured on MIT News](https://news.mit.edu/2024/mit-researchers-remotely-map-crops-fields-0215) and MIT's front page!

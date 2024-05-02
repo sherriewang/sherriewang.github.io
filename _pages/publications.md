@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: (* denotes equal contribution. please see Google Scholar for an up-to-date list of publications.)
-years: [Preprint, 2022, 2021, 2020, 2019, 1935]
+years: [Preprint, 2024, 2023, 2022, 2021, 2020, 2019, 1935]
 nav: true
 nav_order: 1
 ---

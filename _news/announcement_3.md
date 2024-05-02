@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-01-11 07:59:00-0400
+date: 2024-05-11 07:59:00-0400
 inline: true
 ---
 
-I'm excited to [collaborate with AgStack and the Linux Foundation](https://www.prnewswire.com/news-releases/the-linux-foundations-agstack-project-to-build-worlds-first-global-dataset-of-agricultural-field-boundaries-301704612.html) to build the world's first global dataset of agricultural field boundaries! See our [recent paper](https://www.mdpi.com/2072-4292/14/22/5738) for more details.
+I will be delivering a [keynote of the ML4RS Workshop](https://ml-for-rs.github.io/iclr2024/) at the Twelfth International Conference on Learning Representations. Hope to see you there!
