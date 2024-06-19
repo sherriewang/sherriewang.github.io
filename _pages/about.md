@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor, <a href='https://meche.mit.edu'>Mechanical Engineering</a> and <a href='https://idss.mit.edu'>IDSS</a>, MIT
+subtitle: Assistant Professor, MIT <a href='https://meche.mit.edu'>MechE</a>, <a href='https://idss.mit.edu'>IDSS</a>, and <a href="https://lids.mit.edu/">LIDS</a>
 
 profile:
   align: right
@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 **We are hiring PhD students and postdocs to start in 2024-25! Please visit our lab website for more details.**
 
-I am PI of the [Earth Intelligence Lab](https://earthintelligence.mit.edu) at MIT, where our research uses novel data and computational algorithms to monitor our planet and enable sustainable development. 
+I am PI of the **[Earth Intelligence Lab](https://earthintelligence.mit.edu)** at MIT, where our research uses novel data and computational algorithms to monitor our planet and enable sustainable development. 
 Our focus is on improving agricultural management and mitigating climate change, especially in low- or middle-income regions of the world. 
 To this end, we frequently use satellite imagery, crowdsourced data, LiDAR, and other spatial data. 
 Due to the scarcity of ground truth data in these regions and the noisiness of real-world data in general, our methodological work is geared toward developing machine learning methods that work well with these constraints.
