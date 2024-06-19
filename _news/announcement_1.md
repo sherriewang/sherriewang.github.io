@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-01-31 15:59:00-0400
+date: 2024-01-25 15:59:00-0400
 inline: true
 ---
 
-Our preprint benchmarking vision-language foundation models on remote sensing tasks, led by PhD student Chenhui Zhang, is now [available on arXiv](https://arxiv.org/abs/2401.17600).
+We mapped, for the first time, which water bodies are regulated by the Clean Water Act in the US -- the [paper](https://www.science.org/doi/10.1126/science.adi3794) is now published in Science.
